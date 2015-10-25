@@ -26,10 +26,8 @@ There is two characters to make: the real world character and his/hers online av
 You have to choose your alignment, this is for both your character and avatar, on axis of white hat - grey hat - black hat (good-neutral-bad) and on axis of corporate-freelancer-anarchist (lawful-neutral-chaotic). For example white hat anarchist could be an online activist, grey hat freelancer a mobs paid cracker and black hat corporate might be a businessman with psychopathic traits. Discuss about your profession and alignment with your GM. Check out the example character sheet.
 
 
-```
-A word about the game mechanics, refer to Mini Six manual for more information:
-Each attribute is given in D6’s, so when you use that attribute you’ll throw equal amount of D6’s. For example if you do a melee attack with might of 2D and with melee skill of 1D, you will throw total of 3 times D6 (regular six-sided dice) and your opponent (who has might of 1D and dodge of 2D) will throw 3 times D6 to dodge your attack.
-```
+> A word about the game mechanics, refer to Mini Six manual for more information:
+> Each attribute is given in D6’s, so when you use that attribute you’ll throw equal amount of D6’s. For example if you do a melee attack with might of 2D and with melee skill of 1D, you will throw total of 3 times D6 (regular six-sided dice) and your opponent (who has might of 1D and dodge of 2D) will throw 3 times D6 to dodge your attack.
 
 
 ### Some example avatars:
@@ -98,9 +96,7 @@ There is many currencies, but for sake of simplicity money in the game is handle
 * Powerglove™: increases the melee damage by 1D and throw with 20m, also acts as a shield. 300MU
 * Disassembler: more of a tool than a weapon. Can cut target offline or even take control of AI. 300MU
 
-```
-The wild dice: one of the dices (or the dice if you throw only one dice) is a wild dice. This means if you get a 6 with that dice, you can keep throwing more with the wild dice. On the other hand, if you get 1 you’ll fail miserably with consequences. Wild dice is different color than the other dices.
-```
+> The wild dice: one of the dices (or the dice if you throw only one dice) is a wild dice. This means if you get a 6 with that dice, you can keep throwing more with the wild dice. On the other hand, if you get 1 you’ll fail miserably with consequences. Wild dice is different color than the other dices.
 
 Characters in the real world are limited to projectile and melee weapons such as shotguns and baseball bats. You cannot dodge a bullet in the real world. Deal with it.
 
