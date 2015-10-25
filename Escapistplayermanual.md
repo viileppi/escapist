@@ -7,17 +7,19 @@ Thank you Sela, barcelona1937, Antti and DalaiLamer for your input and thanks fo
 
 ## Introduction
 > It is another rainy night in Mexico City, it always rains. You look out from the window of your gritty 9 square foot apartment seeing endless sea of neon lights. Your smartwatch notifies it is soon 2300 and time to go online. As you plug in the connector to the port mounted at back of your head, you feel slight electric sensation through your body.
+
 > System check: OK. You click “go” and world goes blank as you lose the feeling of your body. Within few seconds, the Heads Up Display pops up and you can see the boot sequence printing in front of your eyes, but then comes the darkness again. Soon you get the grip of your senses again and you start to see blurred image. As the darkness passes completely, the image begins to come clear. There is outlines of bunch of characters: a furry cartoon fox dressed like a space pirate, two identical pale-skinned little girls with raven hair and a monk with glowing eyes with a semitransparent gender-neutral humanoid figure. This is your gang, the Bytefiddlers. They greet you with the usual meme punchlines and heartwarming laughter. You are in the virtual world now, in the world of no laws and no limitations of elementary physics.
+
 
 ## Background
 It is the year 2050 and nobody can deny climate change anymore. Coastal cities are flooded and storms wipe the continent. Winter can come without a warning and last for years. Fossil fuels and uranium are almost completely drained, but nuclear fusion produces enough electricity for the 10 billion people around the world. Famine and viral epidemics are within everyday life. A healthy organic meal costs half of a latest iPhone, but mass produced TV-meals are handed out basically free (and so is the access to the virtual world). The word on the streets is that governments are just puppets to the global mega corporations. Artificial intelligence has passed the turing test decades ago. Your every move is monitored with cameras, microphones and RDIF-chips.
+
 Within a last decade, virtual reality took a giant leap and a whole new artificial world, the Webz, has been created on top of the common internet. This is where everyone is at: at the morning you have your breakfast and log in, you fly to the work on virtual spaceship, work a whole day in virtual office and come home to logout briefly for a dinner. Then you log back in to spend a wild night at the red LED’s district with unimaginable vice and formication. That is, if you’re lucky enough to have a job. Automation has taken most the manual labor and majority of people live in the ghettos on welfare, spending most of their lives killing time online. Free-thinkers say, that this is the way to keep masses off from the real issues and to monitor them around the clock, but nobody seems to give a crap as long as they can have fun. For many people, cyber prostitution or fighting on an arena for entertainment are the only ways to earn an extra dime.
 The only law of the Webz is not to piss off those who have more power than you, that is the Government or Corporates. Logging in is relatively safe: you can die while online if you go to the psychosis known as cipher syndrome. Cipher syndrome is when you start to believe that the virtual world is the real world and the real world is just an illusion.
+
 The underground movement is stretching all around. Activists, terrorists and revolutionaries are pushing their common goals bringing chaos in to the real and virtual world. You can buy anything you can imagine from black market, even intercontinental nuclear missile if you have enough dough! With the changes in the world, the activism has changed too. Ecological activists don't just chain themselves to the trees - they hit arctic oil rigs with military grade anthrax starting new oil crisises.
+
 Within all this monitoring and control, it is ironic, that the most valuable of all the resources is the information. You can get fortunes just by stealing college text books from Amazon, or cracking personal information on Google and selling it to the highest bidder. Since aggressive software patenting, all the open source and freeware software is considered illegal, so most people choose the free ChromeOs, but unfortunately it limits you to the very basic behaviour at the Webz.
-
-
-
 
 
 ## Characters
@@ -32,49 +34,68 @@ You have to choose your alignment, this is for both your character and avatar, o
 
 ### Some example avatars:
 Police.
-Corporate-white hat
-Might 3D+1	Wit 2D+1
-Agility  4D	Charm 2D
-Brawling 5D, Dodge 5D, Stealth 5D, Throw 5D, Computers 1D
-2 mem, 4 quota
-Laser, Freeze, Trace, Lock
+* Corporate-white hat
+* Might 3D+1	
+* Wit 2D+1
+* Agility  4D	
+* Charm 2D
+* Brawling 5D, Dodge 5D, Stealth 5D, Throw 5D, Computers 1D
+* 2 mem, 4 quota
+* Laser, Freeze, Trace, Lock
+
 
 Cracker
-Anarchist-black hat
-Might 2D	Wit 3D+1
-Agility 3D+1	Charm 2D+1
-Dodge 3D+1, computers 3D+1, brawling 2D
-4 mem, 6 quota
-Block 6 Dodge 6 Parry 6 Soak 6 CR 10
-Null, Laser, Editor, AI, Overflow, Double
+* Anarchist-black hat
+* Might 2D
+* Wit 3D+1
+* Agility 3D+1
+* Charm 2D+1
+* Dodge 3D+1, computers 3D+1, brawling 2D
+* 4 mem, 6 quota
+* Block 6 Dodge 6 Parry 6 Soak 6 CR 10
+* Null, Laser, Editor, AI, Overflow, Double
+
 
 Con man
-Freelancer-grey hat
-Might 2D	Wit 4D
-Agility 2D	Charm 5D
-Computers 3D, seduction 3D, bluff 2D+1
-2 mem, 4 quota
-Block 6 Dodge 6 Parry 6 Soak 6 CR 10
-Editor, AI, cloak, grep
+* Freelancer-grey hat
+* Might 2D	
+* Wit 4D
+* Agility 2D	
+* Charm 5D
+* Computers 3D, seduction 3D, bluff 2D+1
+* 2 mem, 4 quota
+* Block 6 Dodge 6 Parry 6 Soak 6 CR 10
+* Editor, AI, cloak, grep
+
 
 ## Attributes
 One of the most important ability for avatar is cyber resistance (CR) that determines how well avatar can stand virtual attacks. CR equals average of your avatars might and your characters programming/computer skills, times three. Everybody and everything has cyber resistance in the virtual world, for example a virtual safe containing passwords could have CR of 18 -you have to roll more to crack it open.
 
 For the character distribute 12 dices over 4 attributes (might, agility, wit and charm). For avatar copy wit and charm from character and distribute 8 dice to might and agility. Each dice can be splitted to 3 perks, +1 to each. Perks can be spent freely on any ability but there can be only +3 on each -rest has to be dixes.
 Skills
+
 For your avatar you might want to choose skills in weaponry, martial arts and acrobacy. These can be bought too later on. You can pass the online security measures with acrobatic moves and battle with enemies kung-fu.
 
 Allocate 7 dices over skills you prefer. Again, a dice can be split into perks. Here are some generic examples: acrobatics, bluff, decipher, diplomacy, martial arts, programming, search, seduction, shooting.
-
 
 You can buy more avatar skills or try to learn them. Level 1D skill is 500MU and the price will increase in exponent of two, so level 2D skill will cost 2500MU. It is also possible to steal skills with disassembler if you take over somebody’s avatar. Roll your programming skill; you can have the stolen skill this many turns.
 
 
 
+## General challenges
+
+| Task         | Level | Brawling        | Shooting           | Persuation               | Programming                     |
+|--------------|-------|-----------------|--------------------|--------------------------|---------------------------------|
+|Very easy     | 2-5   | Hit still object|Fish in the barrel  |Take candy from a child   |Move inanimate objects           |
+|Easy          | 6-10  | Punch a passerby|Shoot still target  |A white lie               |Make an automatic laser with loop|
+|Moderate      | 11-15 |Fight with thug  |Shoot from distance |Bargaining                |Build a sequence of commands     |
+|Difficult     | 16-20 |Fight with police|Hit moving target   |Social engineering        |Sequence with contitionals       |
+|Very difficult| 21-30 |Fight with ninja |Hit running deer    |Make allies from strangers|Make advanced AI                 |
+|Heroic        | 31+   |Fistfight endboss|Headshot running man|Complete change of view   |Break into google's server       |
+ 
 
 ## Money
 There is many currencies, but for sake of simplicity money in the game is handled as Money Units. You will start with 1000MU unless you’re unemployed, then you will have only 250MU. Days food ratio will cost 5MU. Drugs go from 10MU up. Mem and quota slot will cost 500MU, backup of avatar or AI 1000MU. Prostitution will get you 20-100MU a round depending on your charm, a pdf college textbooks go for 300MU each, stolen password database is from 2000MU up. You can borrow money from mafia with 10% weekly interest.
-
 
 
 ## Weapons
@@ -302,35 +323,45 @@ In the real world only transportation available is public transportation; electr
 In the webz there is wide variety of all sort of devices for moving avatars. With high experience levels you can use moving-commands to yourself or even do antigravity. For lower levels there is motorcycles, cars, aircraft and of course public transport that is lightning fast. You can be anywhere of the virtual world within seconds with lighttrain. 
 
 Lightcycle	1000MU
-skill: driving	MNV 2D
-body 1D+2	move 3D
-one person only, no cargo
-can be equipped with trailing light wall that will be ultimate barrier for other vehicles
+* skill: driving
+* MNV 2D
+* body 1D+2
+* move 3D
+* one person only, no cargo
+* can be equipped with trailing light wall that will be ultimate barrier for other vehicles
 
 
 Sportscar	2000MU
-skill: driving	MNV 2D
-body 2D	move 2D
-two person, light cargo
+* skill: driving	
+* MNV 2D
+* body 2D	
+* move 2D
+* two person, light cargo
 
 Humvee	5000MU
-skill: driving	MVN 1D
-body 4D	move 1D
-6 person, heavy cargo
-can be equipped with weapons
+* skill: driving	
+* MVN 1D
+* body 4D	
+* move 1D
+* 6 person, heavy cargo
+* can be equipped with weapons
 
 Jet plane	10.000MU
-skill: pilot	MVN 3D
-body 2D	move 3D
-1-2 person, no cargo
-can be equipped with weapons
+* skill: pilot	
+* MVN 3D
+* body 2D	
+* move 3D
+* 1-2 person, no cargo
+* can be equipped with weapons
 
 
 Mecha		100.000MU
-skill: mecha	MVN 1D
-body 5D+1	move 2D
-1 person
-punch 5D melee
-armed with guns 4D range 400 meters
+* skill: mecha	
+* MVN 1D
+* body 5D+1	
+* move 2D
+* 1 person
+* punch 5D melee
+* armed with guns 4D range 400 meters
 
 
