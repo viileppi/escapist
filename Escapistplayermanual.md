@@ -185,7 +185,7 @@ The class determines players profession and personal traits. There’s separate 
   * +6D charm skills
   * Can summon more posers
   * -4D wit skills
-* 
+
 
 
 
@@ -271,6 +271,8 @@ In 2050 drugs are still illegal, but there’s very little effort to stop manufa
 * agility increasing drugs
 * drugs that allow you do twice the amount of commands per turn
 * drugs that split your avatar in two (very dangerous for cyber health)
+
+
 ### real world drugs
 * wit increasing drugs
 * agility increasing drugs
