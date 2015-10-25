@@ -109,86 +109,86 @@ The class determines players profession and personal traits. There’s separate 
 
 ### Character classes
 * Pusher
-** A drug dealer
-** +1D charm
-** +2D chemistry
+  * A drug dealer
+  * +1D charm
+  * +2D chemistry
 * Prostitute
-** Worlds oldest profession
-** +3D charm
+  * Worlds oldest profession
+  * +3D charm
 * Muscle
-** A gorilla
-** +3D might
-** -2D wit
+  * A gorilla
+  * +3D might
+  * -2D wit
 * Businessman
-** The lucky one with a real job
-** needs additional complication
+  * The lucky one with a real job
+  * needs additional complication
 * Process operator
-** The human robot
-** -2D wit
+  * The human robot
+  * -2D wit
 * Doctor
-** One of the few non-automated jobs
-** +4D medicine
-** Needs two additional complications
+  * One of the few non-automated jobs
+  * +4D medicine
+  * Needs two additional complications
 * Gangster
-** Plenty of work
-** Can be a drug smuggler, hitman, mafioso etc.
+  * Plenty of work
+  * Can be a drug smuggler, hitman, mafioso etc.
 * Unemployed
-** The net addict
-** Quarter the money to start with
+  * The net addict
+  * Quarter the money to start with
 
 
 
 ### Avatar classes
 * Wizard
-** Skilled computer enthusiast with playful mind
-** +1D programming
-** -2D all might skills, -1D to charm skills (distribute to ones you choose)
-** Any alignment
-** You get editor for free
+  * Skilled computer enthusiast with playful mind
+  * +1D programming
+  * -2D all might skills, -1D to charm skills (distribute to ones you choose)
+  * Any alignment
+  * You get editor for free
 * Police
-** Law and order
-** +2D all might skills
-** Cannot be black hat or anarchist
+  * Law and order
+  * +2D all might skills
+  * Cannot be black hat or anarchist
 * Cracker
-** Virtual worlds rogue
-** Usually freelancer or anarchist, alignment not limited though
-** +1D programming
-** You get disassembler for free
+  * Virtual worlds rogue
+  * Usually freelancer or anarchist, alignment not limited though
+  * +1D programming
+  * You get disassembler for free
 * Outlaw
-** Conman, identity thief, spammer etc.
-** Cannot be white hat or corporate
-** +2D to charm or agility skills
+  * Conman, identity thief, spammer etc.
+  * Cannot be white hat or corporate
+  * +2D to charm or agility skills
 * Monk
-** An user that has lost his mind
-** Must be anarchist
+  * An user that has lost his mind
+  * Must be anarchist
 * User
-** Just a regular joe
+  * Just a regular joe
 * Samurai
-** The sell sword with high moral standards
-** Cannot be anarchist or evil, neutral alignments not preferred
-** +3D agility skills
-** +2D might skills
-** Not much of a free thinker
+  * The sell sword with high moral standards
+  * Cannot be anarchist or evil, neutral alignments not preferred
+  * +3D agility skills
+  * +2D might skills
+  * Not much of a free thinker
 * Ninja
-** Opportunistic sell sword
-** +2D agility, +1D might skills
-** You get a free cloak
+  * Opportunistic sell sword
+  * +2D agility, +1D might skills
+  * You get a free cloak
 * Troll
-** Cannot be white hat or corporate
-** -2D wit skills
-** +4D agility skills
-** +2D to throw
-** You get DDoS for free
+  * Cannot be white hat or corporate
+  * -2D wit skills
+  * +4D agility skills
+  * +2D to throw
+  * You get DDoS for free
 * AI
-** This avatar has no character, it will live inside a computer
-** +6D for any skills
-** If you die in virtual world, it will be permanent unless you backup regularly. A backup will cost you 1000MU.
-** Can interact with real world through smart devices. See “internet of things”
+  * This avatar has no character, it will live inside a computer
+  * +6D for any skills
+  * If you die in virtual world, it will be permanent unless you backup regularly. A backup will cost you 1000MU.
+  * Can interact with real world through smart devices. See “internet of things”
 * Poser
-** A social media addict
-** +6D charm skills
-** Can summon more posers
-** -4D wit skills
+  * A social media addict
+  * +6D charm skills
+  * Can summon more posers
+  * -4D wit skills
 * 
 
 
