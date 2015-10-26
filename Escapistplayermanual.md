@@ -1,4 +1,4 @@
-﻿# Escapist player manual v.0.1
+﻿# Escapist player manual 
 
 
 
@@ -23,9 +23,9 @@ Within all this monitoring and control, it is ironic, that the most valuable of 
 
 
 ## Characters
-There is two characters to make: the real world character and his/hers online avatar. Only abilities that pass from the real world to virtual are Wit and Charm. Within real world you’ll have very limited skills and abilities due the lack of education and decent nutrition, but your avatar is not limited by those. Looks of the avatar has to go hand-in-hand to the abilities so that for example strong character has to look strong too, otherwise only your imagination is the limit. Note that avatar has to be 0.5m-4m in size. It mandatory to choose at least one complication for your character such as socially awkward, physically weak or drug addiction. Avatars don’t have complications.
+There is two characters to make: the real world character and his/hers online avatar. The abilities that pass from the real world to virtual are Wit and Charm. Looks of the avatar has to go hand-in-hand to the abilities so that for example strong character has to look strong too, otherwise only your imagination is the limit. Note that avatar has to be 0.5m-4m in size. It mandatory to choose at least one complication for your character such as socially awkward, physically weak or drug addiction. Avatars don’t have complications by default. You can buy additional skills by taking complications, one dice per complication.
 
-You have to choose your alignment, this is for both your character and avatar, on axis of white hat - grey hat - black hat (good-neutral-bad) and on axis of corporate-freelancer-anarchist (lawful-neutral-chaotic). For example white hat anarchist could be an online activist, grey hat freelancer a mobs paid cracker and black hat corporate might be a businessman with psychopathic traits. Discuss about your profession and alignment with your GM. Check out the example character sheet.
+You have to choose your alignment, this is for both your character and avatar, on axis of white hat - grey hat - black hat (good-neutral-bad) and on axis of corporate-freelancer-anarchist (lawful-neutral-chaotic). It is up to use if you use hat analogy or traditional terms. For example white hat anarchist could be an online activist, grey hat freelancer a mobs paid cracker and black hat corporate might be a businessman with psychopathic traits. Discuss about your profession and alignment with your GM. 
 
 
 > A word about the game mechanics, refer to Mini Six manual for more information:
@@ -37,7 +37,7 @@ Police.
 * Corporate-white hat
 * Might 3D+1	
 * Wit 2D+1
-* Agility  4D	
+* Agility 4D	
 * Charm 2D
 * Brawling 5D, Dodge 5D, Stealth 5D, Throw 5D, Computers 1D
 * 2 mem, 4 quota
@@ -69,18 +69,21 @@ Con man
 
 
 ## Attributes
-One of the most important ability for avatar is cyber resistance (CR) that determines how well avatar can stand virtual attacks. CR equals average of your avatars might and your characters programming/computer skills, times three. Everybody and everything has cyber resistance in the virtual world, for example a virtual safe containing passwords could have CR of 18 -you have to roll more to crack it open.
+One of the most important ability for avatar is cyber resistance (CR) that determines how well avatar can stand virtual attacks. CR equals average of your avatars might and your characters programming/computer skills, times three. Everybody and everything has cyber resistance in the virtual world, for example a virtual safe containing passwords could have CR of 18 -you have to roll more to crack it open, with programming skill or by damage.
 
-For the character distribute 12 dices over 4 attributes (might, agility, wit and charm). For avatar copy wit and charm from character and distribute 8 dice to might and agility. Each dice can be splitted to 3 perks, +1 to each. Perks can be spent freely on any ability but there can be only +3 on each -rest has to be dixes.
-Skills
+For the character distribute 12 dices over 4 attributes (might, agility, wit and charm). For avatar copy wit and charm from character and distribute 8 dice to might and agility. Each dice can be splitted to 3 perks, +1 to each. Perks can be spent freely on any ability but there can be only +3 on each -rest has to be dices.
 
-For your avatar you might want to choose skills in weaponry, martial arts and acrobacy. These can be bought too later on. You can pass the online security measures with acrobatic moves and battle with enemies kung-fu.
+
+### Skills
+
+For your avatar you might want to choose skills in weaponry, martial arts and acrobacy. These can be bought too later on. You can pass the online security measures with acrobatic moves and combat the enemies with kung-fu.
 
 Allocate 7 dices over skills you prefer. Again, a dice can be split into perks. Here are some generic examples: acrobatics, bluff, decipher, diplomacy, martial arts, programming, search, seduction, shooting.
 
 You can buy more avatar skills or try to learn them. Level 1D skill is 500MU and the price will increase in exponent of two, so level 2D skill will cost 2500MU. It is also possible to steal skills with disassembler if you take over somebody’s avatar. Roll your programming skill; you can have the stolen skill this many turns.
 
 
+> The goal of the Escapist RPG is to be simple and open-ended, there is no complete list of available skills. Discuss with your GM if you have a skill in mind that is not on the list.
 
 ## General challenges
 
@@ -95,7 +98,7 @@ You can buy more avatar skills or try to learn them. Level 1D skill is 500MU and
  
 
 ## Money
-There is many currencies, but for sake of simplicity money in the game is handled as Money Units. You will start with 1000MU unless you’re unemployed, then you will have only 250MU. Days food ratio will cost 5MU. Drugs go from 10MU up. Mem and quota slot will cost 500MU, backup of avatar or AI 1000MU. Prostitution will get you 20-100MU a round depending on your charm, a pdf college textbooks go for 300MU each, stolen password database is from 2000MU up. You can borrow money from mafia with 10% weekly interest.
+There is many currencies, but for sake of simplicity money in the game is handled as Money Units. You will start with 1000MU unless you’re unemployed, then you will have only 250MU. Days food ratio will cost 1MU. Drugs go from 10MU up. Mem and quota slot will cost 500MU, backup of avatar or AI 1000MU. Prostitution will get you 20-100MU a round depending on your charm, a pdf college textbooks go for 300MU each, stolen password database is from 2000MU up. You can borrow money from mafia with 10% weekly interest.
 
 
 ## Weapons
@@ -122,7 +125,7 @@ There is many currencies, but for sake of simplicity money in the game is handle
 Characters in the real world are limited to projectile and melee weapons such as shotguns and baseball bats. You cannot dodge a bullet in the real world. Deal with it.
 
 ## Classes
-The class determines players profession and personal traits. There’s separate classes for character and the avatar. The class traits, plus or minus dices, can be spread to the abilities you choose. The minus dices cannot be spent on the skills you don’t have.
+The class determines players profession and personal traits. There’s separate classes for character and the avatar. The class traits, plus or minus dices, can be spread to the abilities you choose. The minus dices cannot be spent on the skills you don’t have. 
 
 ### Character classes
 * Pusher
@@ -214,7 +217,8 @@ The class determines players profession and personal traits. There’s separate 
 ### Terminology
 Mem: how much memory the player has to use commands per turn. Everyone starts with 2 mem. You can run as many commands as your programming skill is (if you have enough mem) without penalties. Mem can be bought more. 
 
-Quota: how many commands you can pack with you. Everyone starts with 4 quotas, more can be bought.
+Quota: how many commands you can pack with you. Everyone starts with 4 quotas, more can be bought. Use zip or tar to pack more commands to go.
+
 
 
 > Penalty for running more commands than your programming skill is: -1D for each.
@@ -224,7 +228,7 @@ Quota: how many commands you can pack with you. Everyone starts with 4 quotas, m
 Free. Default for users. Cannot load battle- or programming-oriented commands. Mostly useless in action, but safe way to visit the virtual world.
 
 ### RTOS (real-time operating system)
-Cost: 200MU. You will choose ASM or C as your programming language. You must have programming ability at least 2D to use RTOS. RTOS users can run 1 extra command per turn.
+You must have programming ability at least 2D to use RTOS. RTOS users can run 1 extra command per turn.
 
 Commands
 * Move (experience > 2): move objects within range of sight, can be used to yourself too.
@@ -236,7 +240,7 @@ Commands
 
 
 ### NIX
-Cost: 400MU. You will choose C or Python as your programming language. You must have at least 4D at your ability to program to use NIX. Nix has many one-purpose commands that can be combined nicely.
+Cost: 400MU. You must have at least 4D at your ability to program to use NIX. Nix has many one-purpose commands that can be combined to complex things.
 Commands
 * grep: will highlight the things you want to see
 * cron: a timed program, either a countdown or repeat at given interval
@@ -249,13 +253,13 @@ Commands
 * if: conditional for any command
 * script: a series of commands executed in order. Can be stopped with break.
 * trace: traces a user, takes 3 turns to complete and cannot be done hidden.
-* kill: ends user connection. A melee maneuver.
+* kill: ends user connection. 
 * tar: pack 4 commands to one quota. Takes a turn to unpack. Allows to have more commands with you than you have quota.
 * AI: simple artificial intelligence
 
 ### Scheme machine
-Cost: 600MU. Scheme machine is the oddball of operating systems, it is simple and complicated at the same time. It is slow but it can be used to make very advanced AI’s. All programming are done in Scheme-language. You must have programming ability of 6D or more to use Scheme machine.
-* Advanced AI: making an AAI requires separate avatar sheet for AI. AI’s intelligence is determined by its makers programming skill.
+Cost: 600MU. Scheme machine is the oddball of operating systems, it is simple and complicated at the same time. It is slow but it can be used to make very advanced AI’s. You must have programming ability of 6D or more to use Scheme machine.
+* Advanced AI: making an AAI requires separate avatar sheet for AI. AI’s wit and charm is determined by its makers programming skill. Otherwise the rules for creating an avatar applies.
 * List: a structure where you can put just about anything, can also have branches. You can place a clever attack sequence in a list in forehand and execute it when needed without overloading your mem. You can put as many things in list on a turn as you have mem.
 * If: a conditional
 * Null: nullifies the attacks
@@ -275,9 +279,26 @@ Cost: 600MU. Scheme machine is the oddball of operating systems, it is simple an
 * Simpleton AI: a very simple and limited AI.
 * Halt: stops user from logging out for a turn
 * delete: delete your running command
+* break: stop running command
+
+
+## Programming Artificial Intelligences 
+Roll your programming skill for how well the AI turns out to be. Wild dice failure means your AI is non-functional, 2-5 is a buggy one, 6-10 is somewhat helpful bot, from 11 above it works as supposed.
+
+### Simplelton AI
+A simpelton AI can do things such as trigger a command or a weapon when approached and determine is the approacher a pre-defined friend or somebody else. It can act as an aiming assistant and give you as many additional dices to your shooting skill as you have in your programming skill.
+
+
+### AI
+AI can do all the same things as simpelton AI and more. It can move a hologram in natural fashion, but beware thatn AI's cover is blown if somebody tries to speak with it. AI couldn't pass Turing test. It can make battle-oriented bots with predefined strategy or an autopilot.
+
+
+### Advanced AI
+Advanced AI can do anything that avatar could do. In some skills it can beat its maker! Beware of bad rolls, nobody wants a psychotic AI with agility of 8D armed with lasers and bombs...
+
 
 ### Malware
-Malware must be written in the same OS as the target is running. 
+Malware must be written in the same OS as the target is running. TIP: throw in AI for more nasty malware.
 
 Virus: make your command or script spread it self. Creators programming level decides viruses CR
 Trojan: disguise any script or command to harmless looking object
@@ -287,7 +308,7 @@ Rootkit: a takeover of avatar
 
 
 ## Cyber health
-Characters who spend lot of time online can suffer from a cipher psychosis, then they cannot tell real world apart from the virtual one. All sorts of physical conditions can arise from laying around connected all day. Being social online does not fulfill characters all needs for social interaction. Keep these variables in mind so that your organic central processing unit will stay in tune. You have to disconnect at least once a day for a meal. Being online more than 12h at time doubles the risk of psychosis.
+Characters who spend lot of time online can suffer from a cipher psychosis: they cannot tell real world apart from the virtual one. All sorts of physical conditions can arise from laying around connected all day. Being social online does not fulfill characters all needs for social interaction. Keep these variables in mind so that your organic central processing unit will stay in tune. You have to disconnect at least once a day for a meal. Being online more than 12h at time doubles the risk of psychosis.
 
 ## Drugs
 In 2050 drugs are still illegal, but there’s very little effort to stop manufacturing, selling and using them. Because wide variety of designer drugs, each one is not described here. Instead they are split into main categories according their desired effect and usage scenario.
@@ -307,13 +328,15 @@ In 2050 drugs are still illegal, but there’s very little effort to stop manufa
 * sleeping drugs
 * alcohol: lowers all your capabilities
 
-Each drug will increase the desired attribute, but after the effect wears out these attributes will lower for as long and as much the player decided to boost these abilities. Long term use will lower the attributes permanently. Each time player uses drugs, he/she must throw a 1D6 for addiction. If player rolls 1 the addiction kicks in and he/she is unable to get the desired effect, instead he/she must keep on using the drug or become completely useless. Addiction can happen on the very first time using the drug.
+Each drug will increase the desired attribute, but after the effect wears out these attributes will lower for as long and as much the player decided to boost these abilities. Long term use will lower the attributes permanently. Each time player uses drugs, he/she must throw a 1D for addiction. If player rolls 1 the addiction kicks in and he/she is unable to get the desired effect, instead he/she must keep on using the drug or become completely useless. He/she should be recovered to next session. Addiction can happen on the very first time using the drug. 
 
-Drugs with +1D effect and duration of 3 turns cost 50MU a dose, as the effect and duration doubles the price increases in exponent of two so +2D drug with duration of 9 turns costs 250MU. Risk of addiction is the same regardless the price. 
+Drugs with +1D effect and duration of 1D turns cost 50MU a dose, as the effect and duration doubles the price increases in exponent of two so +2D drug with duration of 2D turns costs 250MU. Risk of addiction is the same regardless the price. 
 
 ### Making drugs
 If player has chemistry skills, he/she can try to manufacture real world designer drugs. Simple drugs that increase abilities a little for short period of time are easy to make, but more efficient drugs are harder to make. Fail in drug making can lead to serious consequences. Online drugs are made with programming skills, unfortunately you cannot copy the drug like many other objects.
-Entertainment
+
+
+## Entertainment
 There is wide variety of online entertainment, all hosted by the megacorporate Sony. Avatars can earn a dime while fighting as a gladiator on the arena or blow their money on adult entertainment. There is virtual drugs that cause euphoria and hallucinations. One can also participate in interactive fiction scenes that will blow the mind in detail and carefully engineered plot twists.
 
 
