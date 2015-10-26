@@ -212,10 +212,15 @@ The class determines players profession and personal traits. There’s separate 
 
 ## Operating systems
 ### Terminology
-Mem: how much memory the player has to use commands per turn. Everyone starts with 2 mem. You can run as many commands as your programming skill is (if you have enough mem). Mem can be bought more.
+Mem: how much memory the player has to use commands per turn. Everyone starts with 2 mem. You can run as many commands as your programming skill is (if you have enough mem) without penalties. Mem can be bought more. 
 
 Quota: how many commands you can pack with you. Everyone starts with 4 quotas, more can be bought.
-Chrome OS
+
+
+> Penalty for running more commands than your programming skill is: -1D for each.
+
+
+### Chrome OS
 Free. Default for users. Cannot load battle- or programming-oriented commands. Mostly useless in action, but safe way to visit the virtual world.
 
 ### RTOS (real-time operating system)
@@ -225,7 +230,7 @@ Commands
 * Move (experience > 2): move objects within range of sight, can be used to yourself too.
 * Copy: copy inanimate objects
 * Double (experience > 4): Double your mem for a turn. Takes one turn to load, unless you kick start it -then it will take two turns to recover and you cannot use any commands at that time.
-* Zip: pack three commands to one quota. Takes a turn to unzip the commands.
+* Zip: pack three commands to one quota. Takes a turn to unzip the commands. This way you can carry more commands than you have quota.
 * Cloak: disguise
 * Timer: a countdown timer for any command
 
@@ -245,7 +250,7 @@ Commands
 * script: a series of commands executed in order. Can be stopped with break.
 * trace: traces a user, takes 3 turns to complete and cannot be done hidden.
 * kill: ends user connection. A melee maneuver.
-* tar: pack 4 commands to one quota. Takes a turn to unpack.
+* tar: pack 4 commands to one quota. Takes a turn to unpack. Allows to have more commands with you than you have quota.
 * AI: simple artificial intelligence
 
 ### Scheme machine
@@ -258,7 +263,7 @@ Cost: 600MU. Scheme machine is the oddball of operating systems, it is simple an
 * Define: a subprogram
 * Size: change size of objects
 * Antigravity: use gravity at your will
-* Telepathy: control AAI with your will
+* Telepathy: control AAI with your will. Can also be used to send telepathic messages to others. 
 
 ### Commands for every OS (except Chrome OS)
 
