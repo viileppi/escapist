@@ -85,6 +85,52 @@ You can buy more avatar skills or try to learn them. Level 1D skill is 500MU and
 
 > The goal of the Escapist RPG is to be simple and open-ended, there is no complete list of available skills. Discuss with your GM if you have a skill in mind that is not on the list.
 
+
+### Example skills
+
+**Might skills**
+* brawling
+* farming
+* knife
+* pole arm
+* smithing
+* stamina
+
+**Agility skills**
+* athletics
+* bow
+* crossbow
+* dodge
+* drive
+* pickpocket
+* pilot
+* shooting
+* stealth
+* throwing
+
+**Wit skills**
+* chemistry
+* history
+* language
+* medicine
+* multitasking
+* navigation
+* pick locks
+* programming
+* repair
+* search 
+* tracking 
+
+**Charm skills**
+* command
+* courage
+* diplomacy
+* persuation
+* seduce
+* streetwise
+
+
+
 ## General challenges
 
 | Task         | Level | Brawling        | Shooting           | Persuation               | Programming                     |
@@ -97,6 +143,8 @@ You can buy more avatar skills or try to learn them. Level 1D skill is 500MU and
 |Heroic        | 31+   |Fistfight endboss|Headshot running man|Complete change of view   |Break into google's server       |
  
 
+
+
 ## Money
 There is many currencies, but for sake of simplicity money in the game is handled as Money Units. You will start with 1000MU unless you’re unemployed, then you will have only 250MU. Days food ratio will cost 1MU. Drugs go from 10MU up. Mem and quota slot will cost 500MU, backup of avatar or AI 1000MU. Prostitution will get you 20-100MU a round depending on your charm, a pdf college textbooks go for 300MU each, stolen password database is from 2000MU up. You can borrow money from mafia with 10% weekly interest.
 
@@ -104,21 +152,21 @@ There is many currencies, but for sake of simplicity money in the game is handle
 ## Weapons
 ### Real world
 * Baseball bat: +1D+1, price 50MU
-* Machete +2D, price 100MU
 * DIY crossbow: 3D+1, range 50m, price for materials 50MU, ready assembled 250MU
+* DIY explosive: 3D-6D, blast radius 3-8m, materials 30MU, 200MU ready assembled
+* Machete +2D, price 100MU
 * Pistol: 3D+2, range 50m, price 500MU
 * Rifle: 5D, range 200m, price 1000MU
-* DIY explosive: 3D-6D, blast radius 3-8m, materials 30MU, 200MU ready assembled
 
 ### Virtual
-* Melee: any kind of melee weapon, 3D damage. Can be dodged. 100MU
-* Laser: use shooting-skill to use, does 2D damage. With loop-command you can shoot 3 lasers in one round. Range 200 meters. Can be dodged. 200MU
 * Bomb: an explosive, can be thrown. Comes with a builtin timer. 5D damage within 4 meter radius. 200MU, can be copied otherwise disposable.
-* Freeze: freezes the target for three turns, doesn’t do damage. 200MU
 * DDoS: shoots all kinds of objects as a barrier to the target prohibiting movement or attacks. No damage. Can be dodged. 100MU
+* Disassembler: more of a tool than a weapon. Can cut target offline or even take control of AI. 300MU
+* Freeze: freezes the target for three turns, doesn’t do damage. 200MU
+* Laser: use shooting-skill to use, does 2D damage. With loop-command you can shoot 3 lasers in one round. Range 200 meters. Can be dodged. 200MU
+* Melee: any kind of melee weapon, 3D damage. Can be dodged. 100MU
 * Overflow: like the freeze but only one turn, makes 1D damage 300MU
 * Powerglove™: increases the melee damage by 1D and throw with 20m, also acts as a shield. 300MU
-* Disassembler: more of a tool than a weapon. Can cut target offline or even take control of AI. 300MU
 
 > The wild dice: one of the dices (or the dice if you throw only one dice) is a wild dice. This means if you get a 6 with that dice, you can keep throwing more with the wild dice. On the other hand, if you get 1 you’ll fail miserably with consequences. Wild dice is different color than the other dices.
 
@@ -128,23 +176,9 @@ Characters in the real world are limited to projectile and melee weapons such as
 The class determines players profession and personal traits. There’s separate classes for character and the avatar. The class traits, plus or minus dices, can be spread to the abilities you choose. The minus dices cannot be spent on the skills you don’t have. 
 
 ### Character classes
-* Pusher
-  * A drug dealer
-  * +1D charm
-  * +2D chemistry
-* Prostitute
-  * Worlds oldest profession
-  * +3D charm
-* Muscle
-  * A gorilla
-  * +3D might
-  * -2D wit
 * Businessman
   * The lucky one with a real job
   * needs additional complication
-* Process operator
-  * The human robot
-  * -2D wit
 * Doctor
   * One of the few non-automated jobs
   * +4D medicine
@@ -152,6 +186,20 @@ The class determines players profession and personal traits. There’s separate 
 * Gangster
   * Plenty of work
   * Can be a drug smuggler, hitman, mafioso etc.
+* Muscle
+  * A gorilla
+  * +3D might
+  * -2D wit
+* Pusher
+  * A drug dealer
+  * +1D charm
+  * +2D chemistry
+* Process operator
+  * The human robot
+  * -2D wit
+* Prostitute
+  * Worlds oldest profession
+  * +3D charm
 * Unemployed
   * The net addict
   * Quarter the money to start with
@@ -159,56 +207,56 @@ The class determines players profession and personal traits. There’s separate 
 
 
 ### Avatar classes
-* Wizard
-  * Skilled computer enthusiast with playful mind
-  * +1D programming
-  * -2D all might skills, -1D to charm skills (distribute to ones you choose)
-  * Any alignment
-  * You get editor for free
-* Police
-  * Law and order
-  * +2D all might skills
-  * Cannot be black hat or anarchist
+* AI
+  * This avatar has no character, it will live inside a computer
+  * +6D for any skills
+  * If you die in virtual world, it will be permanent unless you backup regularly. A backup will cost you 1000MU.
+  * Can interact with real world through smart devices. See “internet of things”
 * Cracker
   * Virtual worlds rogue
   * Usually freelancer or anarchist, alignment not limited though
   * +1D programming
   * You get disassembler for free
+* Monk
+  * An user that has lost his mind
+  * Must be anarchist
+* Ninja
+  * Opportunistic sell sword
+  * +2D agility, +1D might skills
+  * You get a free cloak
 * Outlaw
   * Conman, identity thief, spammer etc.
   * Cannot be white hat or corporate
   * +2D to charm or agility skills
-* Monk
-  * An user that has lost his mind
-  * Must be anarchist
-* User
-  * Just a regular joe
+* Police
+  * Law and order
+  * +2D all might skills
+  * Cannot be black hat or anarchist
+* Poser
+  * A social media addict
+  * +6D charm skills
+  * Can summon more posers
+  * -4D wit skills
 * Samurai
   * The sell sword with high moral standards
   * Cannot be anarchist or evil, neutral alignments not preferred
   * +3D agility skills
   * +2D might skills
   * Not much of a free thinker
-* Ninja
-  * Opportunistic sell sword
-  * +2D agility, +1D might skills
-  * You get a free cloak
 * Troll
   * Cannot be white hat or corporate
   * -2D wit skills
   * +4D agility skills
   * +2D to throw
   * You get DDoS for free
-* AI
-  * This avatar has no character, it will live inside a computer
-  * +6D for any skills
-  * If you die in virtual world, it will be permanent unless you backup regularly. A backup will cost you 1000MU.
-  * Can interact with real world through smart devices. See “internet of things”
-* Poser
-  * A social media addict
-  * +6D charm skills
-  * Can summon more posers
-  * -4D wit skills
+* User
+  * Just a regular joe
+* Wizard
+  * Skilled computer enthusiast with playful mind
+  * +1D programming
+  * -2D all might skills, -1D to charm skills (distribute to ones you choose)
+  * Any alignment
+  * You get editor for free
 
 
 
@@ -231,55 +279,55 @@ Free. Default for users. Cannot load battle- or programming-oriented commands. M
 You must have programming ability at least 2D to use RTOS. RTOS users can run 1 extra command per turn.
 
 Commands
-* Move (experience > 2): move objects within range of sight, can be used to yourself too.
+* Cloak: disguise
 * Copy: copy inanimate objects
 * Double (experience > 4): Double your mem for a turn. Takes one turn to load, unless you kick start it -then it will take two turns to recover and you cannot use any commands at that time.
-* Zip: pack three commands to one quota. Takes a turn to unzip the commands. This way you can carry more commands than you have quota.
-* Cloak: disguise
+* Move (experience > 2): move objects within range of sight, can be used to yourself too.
 * Timer: a countdown timer for any command
+* Zip: pack three commands to one quota. Takes a turn to unzip the commands. This way you can carry more commands than you have quota.
 
 
 ### NIX
 Cost: 400MU. You must have at least 4D at your ability to program to use NIX. Nix has many one-purpose commands that can be combined to complex things.
 Commands
-* grep: will highlight the things you want to see
-* cron: a timed program, either a countdown or repeat at given interval
-* mv: move objects, can be used to yourself too
-* cp: copies inanimate objects
-* wildcard: one command applies to many targets
-* loop: repeat command given times, maximum of 3 times a turn
-* break: stops loop
-* pipe: sends command or result of command to another command or to another place in sight
-* if: conditional for any command
-* script: a series of commands executed in order. Can be stopped with break.
-* trace: traces a user, takes 3 turns to complete and cannot be done hidden.
-* kill: ends user connection. 
-* tar: pack 4 commands to one quota. Takes a turn to unpack. Allows to have more commands with you than you have quota.
 * AI: simple artificial intelligence
+* break: stops loop
+* cp: copies inanimate objects
+* cron: a timed program, either a countdown or repeat at given interval
+* grep: will highlight the things you want to see
+* if: conditional for any command
+* kill: ends user connection. 
+* loop: repeat command given times, maximum of 3 times a turn
+* mv: move objects, can be used to yourself too
+* pipe: sends command or result of command to another command or to another place in sight
+* script: a series of commands executed in order. Can be stopped with break.
+* tar: pack 4 commands to one quota. Takes a turn to unpack. Allows to have more commands with you than you have quota.
+* trace: traces a user, takes 3 turns to complete and cannot be done hidden.
+* wildcard: one command applies to many targets
 
 ### Scheme machine
 Cost: 600MU. Scheme machine is the oddball of operating systems, it is simple and complicated at the same time. It is slow but it can be used to make very advanced AI’s. You must have programming ability of 6D or more to use Scheme machine.
 * Advanced AI: making an AAI requires separate avatar sheet for AI. AI’s wit and charm is determined by its makers programming skill. Otherwise the rules for creating an avatar applies.
-* List: a structure where you can put just about anything, can also have branches. You can place a clever attack sequence in a list in forehand and execute it when needed without overloading your mem. You can put as many things in list on a turn as you have mem.
+* Antigravity: use gravity at your will
+* Define: a subprogram
 * If: a conditional
+* List: a structure where you can put just about anything, can also have branches. You can place a clever attack sequence in a list in forehand and execute it when needed without overloading your mem. You can put as many things in list on a turn as you have mem.
 * Null: nullifies the attacks
 * Recursion: a program can call itself and multiply or loop. You can loop with recursion up to 5 times a turn. but beware if you don’t put if-command in it you cannot stop it.
-* Define: a subprogram
 * Size: change size of objects
-* Antigravity: use gravity at your will
 * Telepathy: control AAI with your will. Can also be used to send telepathic messages to others. 
 
 ### Commands for every OS (except Chrome OS)
 
-* Invisibility (xp level 3)
-* Hologram
-* Process list
+* Break: stop running command
+* Delete: delete your running command
 * Editor (exp > 4): gives a possibility to change parameters of objects in sight.
-* Lock: locks a weapon or command to target, +2D for a try
-* Simpleton AI: a very simple and limited AI.
 * Halt: stops user from logging out for a turn
-* delete: delete your running command
-* break: stop running command
+* Hologram
+* Invisibility (xp level 3)
+* Lock: locks a weapon or command to target, +2D for a try
+* Process list
+* Simpleton AI: a very simple and limited AI.
 
 
 ## Programming Artificial Intelligences 
